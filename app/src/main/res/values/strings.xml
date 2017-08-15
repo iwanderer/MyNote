@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Note</string>
+    <string name="title_edit_text_hint">Enter a title for the note...</string>
 </resources>

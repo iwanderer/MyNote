@@ -4,6 +4,14 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent"
               android:orientation="vartical"
+              android:padding="8dp"
               tools:context="com.iwanderer.mynote.DetailActivity">
+
+    <EditText
+        android:id="@+id/title_edit_text"
+        android:background="@null"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/title_edit_text_hint"/>
 
 </LinearLayout>
